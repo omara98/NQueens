@@ -7,3 +7,5 @@ To make and run the program:
 Enter the command "make" while in the NQueens directory on the command line
 
 Enter a number from 4 to 24 when prompted
+
+(Coding assignment for CPSC 3750 - Artificial Intelligence)
